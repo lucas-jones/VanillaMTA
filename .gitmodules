@@ -1,0 +1,3 @@
+[submodule "libs/mtaHx"]
+	path = libs/mtaHx
+	url = http://github.com/lucas-jones/mtaHx.git
