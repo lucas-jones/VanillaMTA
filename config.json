@@ -1,0 +1,9 @@
+{
+	"resourceName": "vanilla",
+	"bin": "/home/lucas/Projects/MTA-Server/mods/deathmatch/resources/vanilla/",
+	"livereload":
+	{
+	  "username": "test",
+	  "password": "password"
+	}
+}

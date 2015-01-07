@@ -1,0 +1,11 @@
+-main server.Server
+
+-lib luaxe
+
+-cp libs
+-cp src
+
+-cp libs/mtaHx/libs
+-cp libs/mtaHx/src
+
+-js bin/server.lua
