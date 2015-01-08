@@ -2,4 +2,5 @@
      <info author="Sik_DeVz" type="gamemode" name="VanillaMTA" description="BestEU" />
      <oop>true</oop>
      <script src="server.lua" />
+     <script src="client.lua" type="client" />
 </meta>
