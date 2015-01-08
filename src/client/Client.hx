@@ -1,7 +1,6 @@
 package client;
 
 import mta.Globals;
-import mta.GUI;
 
 class Client 
 {

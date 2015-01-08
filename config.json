@@ -3,7 +3,7 @@
 	"bin": "/home/lucas/Projects/MTA-Server/mods/deathmatch/resources/vanilla/",
 	"livereload":
 	{
-	  "username": "test",
-	  "password": "password"
+		"username": "test",
+		"password": "password"
 	}
 }
