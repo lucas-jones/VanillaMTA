@@ -3,4 +3,6 @@
      <oop>true</oop>
      <script src="server.lua" />
      <script src="client.lua" type="client" />
+     
+     <file src="assets/theme.mp3" download="true" />
 </meta>
